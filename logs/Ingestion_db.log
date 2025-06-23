@@ -1,0 +1,30 @@
+2025-06-21 21:43:26,243 - DEBUG - Building SSL context
+2025-06-21 21:43:26,308 - DEBUG - Switching to SSL
+2025-06-21 21:43:26,313 - DEBUG - SSL has been enabled
+2025-06-21 21:43:26,314 - DEBUG - Starting authorization phase
+2025-06-21 21:43:26,314 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-06-21 21:43:26,314 - INFO - package: mysql.connector.plugins
+2025-06-21 21:43:26,314 - INFO - plugin_name: caching_sha2_password
+2025-06-21 21:43:26,314 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-21 21:43:26,315 - DEBUG - Server's response is an auth switch request
+2025-06-21 21:43:26,316 - DEBUG - Switching to strategy mysql_native_password
+2025-06-21 21:43:26,316 - INFO - package: mysql.connector.plugins
+2025-06-21 21:43:26,316 - INFO - plugin_name: mysql_native_password
+2025-06-21 21:43:26,318 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-06-21 21:43:26,318 - DEBUG - # request: b'\xb5\xa4X\x11\x86h\xc55\xc2\xb9Di\xdd\x1dgQ\x1e\x1bMF' size: 20
+2025-06-21 21:43:26,319 - DEBUG - # server response packet: b'\x07\x00\x00\x05\x00\x00\x00\x02\x00\x00\x00'
+2025-06-21 21:43:26,319 - DEBUG - mysql_native_password completed succesfully
+2025-06-21 21:43:43,816 - INFO - Ingesting: Amazon_global_superstore_2016.xlsx  table: Amazon_global_superstore_2016
+2025-06-21 21:43:43,819 - DEBUG - Building SSL context
+2025-06-21 21:43:43,864 - DEBUG - Switching to SSL
+2025-06-21 21:43:43,868 - DEBUG - SSL has been enabled
+2025-06-21 21:43:43,868 - DEBUG - Starting authorization phase
+2025-06-21 21:43:43,868 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-06-21 21:43:43,868 - DEBUG - Server's response is an auth switch request
+2025-06-21 21:43:43,868 - DEBUG - Switching to strategy mysql_native_password
+2025-06-21 21:43:43,868 - DEBUG - # request: b'M&\xfa7z\xe0\xd8B\xfa\xe34\x94\x98[\xab\xa9\x07\x9c\x188' size: 20
+2025-06-21 21:43:43,870 - DEBUG - # server response packet: b'\x07\x00\x00\x05\x00\x00\x00\x02\x00\x00\x00'
+2025-06-21 21:43:43,870 - DEBUG - mysql_native_password completed succesfully
+2025-06-21 22:03:15,403 - INFO - Successfully inserted table: Amazon_global_superstore_2016
+2025-06-21 22:03:15,403 - INFO - ----------------Ingestion Completed------------------
+2025-06-21 22:03:15,403 - INFO - Total time taken: 19.82 minutes
