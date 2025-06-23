@@ -30,16 +30,8 @@ This project presents a complete end-to-end data analysis pipeline on Amazon's G
 
 ## 🧱 Project Structure
 
----Amazon-Global-Sales-Analysis/
-├── data_ingestion/
-│ └── Ingestion_db.py
-├── eda_notebook/
-│ ├── Amazon_EDA.ipynb
-│ └── Amazon_EDA_Report.pdf
-├── dashboard/
-│ ├── Amazon_Dashboard.pbix
-│ └── Amazon_Dashboard.png
-├── README.md
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/839bb15b-b850-455d-ada7-631a662d798e)
+
 
 ## 🔄 End-to-End Workflow
 
