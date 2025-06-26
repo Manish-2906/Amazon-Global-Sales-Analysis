@@ -29,8 +29,8 @@ This project presents a complete end-to-end data analysis pipeline on Amazon's G
 ---
 
 ## 🧱 Project Structure
+![workflow amazon Proj](https://github.com/user-attachments/assets/942e043a-28ba-412c-bb40-0085dc3d1c01)
 
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/839bb15b-b850-455d-ada7-631a662d798e)
 
 
 ## 🔄 End-to-End Workflow
@@ -88,6 +88,9 @@ This project presents a complete end-to-end data analysis pipeline on Amazon's G
 - `Amazon_EDA_Report.pdf` → PDF version of EDA for offline review
 
 ---
+
+## 🧱 Project files Structure in github
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/839bb15b-b850-455d-ada7-631a662d798e)
 
 ## 👨‍💻 Author
 
