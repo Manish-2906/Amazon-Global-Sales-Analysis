@@ -15,11 +15,11 @@ logging.basicConfig(
 
 """Retrieve database credentials from environment or fallback to defaults"""
 
-username = os.getenv('DB_USER', 'root')
+username = os.getenv('DB_USER', 'username')
 password = os.getenv('DB_PASS', 'password')
-host = os.getenv('DB_HOST', 'localhost')
-port = os.getenv('DB_PORT', '3306')
-database = os.getenv('DB_NAME', 'amazon')
+host = os.getenv('DB_HOST', 'hostname')
+port = os.getenv('DB_PORT', 'port number')
+database = os.getenv('DB_NAME', 'db name')
 
 
 try:    
