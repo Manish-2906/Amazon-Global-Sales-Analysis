@@ -64,9 +64,9 @@ This project presents a complete end-to-end data analysis pipeline on Amazon's G
 ---
 
 ## 📸 Dashboard Preview
-![Screenshot 2025-07-02 185116](https://github.com/user-attachments/assets/1291173a-4f06-4597-8a1a-932fc2e3a926)
-![Screenshot 2025-07-02 185148](https://github.com/user-attachments/assets/c812bd2a-ba4a-4fe6-8c2a-a80bb400c1af)
 ![Screenshot 2025-07-02 191737](https://github.com/user-attachments/assets/ac697b84-2ab7-45c0-989f-42b984a68a47)
+![Screenshot 2025-07-02 185148](https://github.com/user-attachments/assets/c812bd2a-ba4a-4fe6-8c2a-a80bb400c1af)
+![Screenshot 2025-07-02 185116](https://github.com/user-attachments/assets/1291173a-4f06-4597-8a1a-932fc2e3a926)
 
 
 
